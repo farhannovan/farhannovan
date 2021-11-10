@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
   <h1 align="center"><samp>Hello, I'm Farhan Novan👋</samp></h1>
 </p>
 
@@ -14,4 +14,4 @@
     ·
     <a href="https://linkedin.com/in/farhannovan/">LinkedIn</a>
   </samp>
-</p>
+</p> -->
